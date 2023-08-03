@@ -13,6 +13,6 @@ assignees: lSuns
 
 ## Have To Do
 
-- [ ] todo A
-- [ ] todo B
-- [ ] todo C
+- [ ] todo A 🤦🏻‍♂️
+- [ ] todo B 🤦🏻‍♂️
+- [ ] todo C 🤦🏻‍♂️
